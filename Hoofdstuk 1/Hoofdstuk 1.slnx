@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Fake chatgpt/Fake chatgpt.csproj" Id="66636e03-b9eb-4a52-9cfe-4fead88d348d" />
+  <Project Path="final assignment/final assignment.csproj" Id="7d2dfcd8-e0f9-4248-94ce-ca9ed3ac8680" />
+  <Project Path="frituur in volgorde/frituur in volgorde.csproj" Id="cf6086c8-b53d-40b4-bddf-2262fb8b563e" />
+  <Project Path="Hoofdstuk 1/Hoofdstuk 1.csproj" />
+  <Project Path="Stevens begroeting/Stevens begroeting.csproj" Id="9c334317-d613-46fc-abad-572acd024997" />
+  <Project Path="Tekening/Tekening.csproj" Id="5e36cc7b-92ef-4d6e-b05f-a2bb4039ac35" />
+  <Project Path="Verhaaltjesmaker/Verhaaltjesmaker.csproj" Id="80299091-f065-4b4a-a77a-1552641bb622" />
+  <Project Path="visitekaart/visitekaart.csproj" Id="9ddf3537-b68f-4d40-9ad3-0a5745e02535" />
+  <Project Path="voorspel de volgorde/voorspel de volgorde.csproj" Id="5a903b10-7e37-4ea5-9adb-2f6b337faf0a" />
+  <Project Path="woordsliner/woordsliner.csproj" Id="b1fc66ee-5210-4f6d-bbe2-e76a8e9e7eca" />
+</Solution>
