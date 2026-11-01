@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            double bedragInEuro = 78.65;
+            double bedragInDollar = bedragInEuro * 1.03;
+
+            Console.WriteLine(bedragInDollar);
+
+            Console.ReadLine();
         }
     }
 }
