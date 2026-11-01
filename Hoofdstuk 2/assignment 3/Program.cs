@@ -1,16 +1,16 @@
-﻿
-namespace assignment_3
+﻿namespace assignment_4
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            double kills = 44;
-            double deaths = 9;
+            int september = 224;
+            int oktober = 177;
+            int november = 210;
 
-            double kd = kills / deaths;
+            double gemiddeld = ((double)september + (double)oktober + (double)november) / 3;
 
-            Console.WriteLine($"You k/d-ratio is {kd}");
+            Console.WriteLine($"Je sliep gemiddeld: {gemiddeld} uren per maand.");
         }
     }
 }
