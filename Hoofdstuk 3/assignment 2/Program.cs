@@ -11,7 +11,7 @@
             Console.WriteLine("A" + "B"); //AB
             Console.WriteLine('1' + 1);   //50
             Console.WriteLine('a' - 'A');//32
-            Console.WriteLine("1" + 1 + 1);//12
+            Console.WriteLine("1" + 1 + 1);//111
             Console.WriteLine(1 + 1 + "1");//21
             Console.WriteLine($"{letter1}{letter2}");//AB
         }
