@@ -7,7 +7,9 @@
 
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("❤");
-            Console.WriteLine("\u2764");
+            Console.WriteLine("\uf2764");
+           
+
         }
     }
 }
